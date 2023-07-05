@@ -3,9 +3,7 @@
 
 This repo provides the codebase and results for [1]
 
-### Code will be published upon acceptance.
-
-[1] Alexander von Bank, Eike-Manuel Edelmann and Laurent Schmalen, Spiking Neural Network Decision Feedback Equalization for IM/DD Systems, ..., ..., ...
+[1] A. von Bank, E. Edelmann and L. Schmalen, "Spiking neural network decision feedback equalization for IM/DD systems," Proc. Advanced Photonic Congress: Signal Processing in Photonic Communications (SPPCom), Busan, South Korea, Jul. 2023, https://arxiv.org/abs/2304.14152
 
 ---
 
